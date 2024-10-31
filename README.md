@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishmam Newaz</h1>
 <h3 align="center">Engineer by choice who loves to Explore</h3>
 
-<img align="right" alt="coding" width = "400" src="https://miro.medium.com/v2/resize:fit:750/0*ygaHmPjQnVmEApdT.gif">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ishmamnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="ishmamnewaz" /> </p>
 
 
