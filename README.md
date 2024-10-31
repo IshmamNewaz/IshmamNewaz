@@ -2,7 +2,7 @@
 <h3 align="center">Engineer by choice who loves to Explore</h3>
 
 <img align="right" alt="coding" width = "400" src="https://miro.medium.com/v2/resize:fit:750/0*ygaHmPjQnVmEApdT.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmamnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="ishmamnewaz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ishmamnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="ishmamnewaz" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
