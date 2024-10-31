@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishmam Newaz</h1>
 <h3 align="center">Deep Learning Practitioner & .Net Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ishmamnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="ishmamnewaz" /> </p>
+<p align="center"> <img height="50" src="https://komarev.com/ghpvc/?username=ishmamnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="ishmamnewaz" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
