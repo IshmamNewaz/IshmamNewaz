@@ -19,7 +19,6 @@
 [![Email](https://img.shields.io/badge/📧-ishu.newaz@gmail.com-red?style=for-the-badge&labelColor=black&color=red)](mailto:ishu.newaz@gmail.com)
 </div>
 ---
----
 
 ## 🧬 **About Me**
 
