@@ -1,3 +1,5 @@
+<div style="font-family: 'Ubuntu', sans-serif;">
+
 <h1 align="center">Hi 👋, I'm Ishmam Newaz</h1>
 <h3 align="center">Deep Learning Practitioner & .Net Developer </h3>
 
@@ -11,3 +13,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishmamnewaz&" alt="ishmamnewaz" /></p>
+
+</div>
