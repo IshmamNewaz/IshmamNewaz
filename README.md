@@ -8,15 +8,17 @@
 
 
   <!-- Animated wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=header&text=&fontSize=60" />
- <img src="https://readme-typing-svg.demolab.com/?lines=Research%20Assistant%20%7C%20(D2A2I);Greed%20Equals%20Justice&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1500&color=6366F1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=header&text=&fontSize=60" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Research%20Assistant%20%7C%20(D2A2I);Greed%20Equals%20Justice&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1500&color=6366F1" />
+</div>
 ---
-  [![Website](https://img.shields.io/badge/🌐-Website-blue?style=for-the-badge)](https://ishmamnewaz.github.io/)
+<div align="center">
+[![Website](https://img.shields.io/badge/🌐-Website-blue?style=for-the-badge)](https://ishmamnewaz.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/ishmam-newaz)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ishmam.Neawaz.56/)
 [![Email](https://img.shields.io/badge/📧-ishu.newaz@gmail.com-red?style=for-the-badge&labelColor=black&color=red)](mailto:ishu.newaz@gmail.com)
+</div>
 ---
-
 ---
 
 ## 🧬 **About Me**
@@ -39,5 +41,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=footer" />
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=footer" />
 </div>
+
 </div>
+
