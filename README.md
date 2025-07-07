@@ -42,7 +42,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishmamnewaz&" alt="ishmamnewaz" /></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=footer" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=footer" />
+</div>
 
 
 
