@@ -16,6 +16,7 @@
 <div align="center">
   
 [![Website](https://img.shields.io/badge/🌐-Website-blue?style=for-the-badge)](https://ishmamnewaz.github.io/)
+[![Huggingface](https://img.shields.io/badge/Huggingface-030C54?style=for-the-badge&logo=huggingface&logoColor=yellow)](https://huggingface.co/ishu-newaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/ishmam-newaz)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://huggingface.co/ishu-newaz)
 [![Email](https://img.shields.io/badge/📧-ishu.newaz@gmail.com-red?style=for-the-badge&labelColor=black&color=red)](mailto:ishu.newaz@gmail.com)
