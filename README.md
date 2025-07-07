@@ -9,8 +9,6 @@
 
   <!-- Animated wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=header&text=&fontSize=60" />
-
-    <!-- Animated typing effect - alternating between two messages -->
   <img src="https://readme-typing-svg.demolab.com/?lines=Research%20Assistant%20%7C%Dr.%20Anwarul%20Abedin%2C%20Institute%20of%20Innovation%20K(D2A2I);Life%20is%20Beautiful&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1500&color=6366F1" />
 
 <h3 align="left">Languages and Tools:</h3>
