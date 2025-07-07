@@ -1,12 +1,8 @@
 <div style="font-family: 'Ubuntu', sans-serif;">
 <div align="center">
 
-#Hi 👋, I'm Ishmam Newaz
-
----
-
-##Deep Learning Practitioner & .Net Developer </h3>
-
+<h1 align="center">Hi 👋, I'm Ishmam Newaz</h1>
+<h3 align="center">Deep Learning Practitioner & .Net Developer </h3>
 <p align="center"> <img height="25" src="https://komarev.com/ghpvc/?username=ishmamnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="ishmamnewaz" /> </p>
 
   <!-- Animated wave -->
