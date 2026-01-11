@@ -27,7 +27,8 @@
 ## 🧬 **About Me**
 
 - 🌍 **Currently working** | Research Assistant (RA), Dr. Anwarul Abedin Institue of Innovation (D2A2I)
-- 🎓 **Fresh CS Graduate** | American International University-Bangladesh (AIUB) - April 2025
+- 🎓 **Bachelors** | American International University-Bangladesh (AIUB) - April 2025
+- 🎓 **Masters** | Rajshahi University of Engineering & Technology (RUET) - Ongoing
 
 ---
 
